@@ -244,31 +244,31 @@ Geschäftserfolg, Verkäuferleistung und Marketingattribute stehen in engem Zusa
 
 ### 1. Business Performance Report
 
-BI Report/01_olist_business_performance_report.png
+![Business Performance Report](BI Report/01_olist_business_performance_report.png)
 
 ### 2. Business Performance Overview
 
-BI Report/02_business_performance_overview.png
+![Business Performance Overview](BI Report/02_business_performance_overview.png)
 
 ### 3. Customer Analysis
 
-BI Report/03_customer_analysis.png
+![Customer Analysis](BI Report/03_customer_analysis.png)
 
 ### 4. Seller Performance Analysis
 
-BI Report/04_seller_performance_analysis.png
+![Seller Performance Analysis](BI Report/04_seller_performance_analysis.png)
 
-### 5. Marketing Lead Analysis
+### 5. Marketing & Lead Analysis
 
-BI Report/05_marketing_lead_analysis.png
+![Marketing & Lead Analysis](BI Report/05_marketing_lead_analysis.png)
 
 ### 6. Seller Scoring
 
-BI Report/06_seller_scoring.png
+![Seller Scoring](BI Report/06_seller_scoring.png)
 
 ### 7. Drillthrough Seller
 
-BI Report/07_drillthrough_seller.png
+![Drillthrough Seller](BI Report/07_drillthrough_seller.png)
 
 ## Autor
 
