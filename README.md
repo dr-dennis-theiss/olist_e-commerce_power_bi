@@ -240,6 +240,36 @@ Geschäftserfolg, Verkäuferleistung und Marketingattribute stehen in engem Zusa
 - DAX
 - Star-Schema-Datenmodell
 
+## BI Report Screenshots
+
+### 1. Business Performance Report
+
+![Business Performance Report](BI Report/01_olistg
+
+### 2. Business Performance Overview
+
+![Business02_business_performance_overview.png
+
+### 3. Customer Analysis
+
+![Customer03_customer_analysis.png
+
+### 4. Seller Performance Analysis
+
+![Seller Performance Analysisce_analysis.png
+
+### 5. Marketing Lead Analysis
+
+![ Report/05_marketing_lead_analysis.png
+
+### 6. Seller Scoring
+
+![Seller Scoring](BI Report.png
+
+### 7. Seller Drillthrough
+
+!I Report/07_drillthrough_seller.png
+
 ## Autor
 
 Dennis Theiß
