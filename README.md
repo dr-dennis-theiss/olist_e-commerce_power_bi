@@ -62,11 +62,10 @@ Das Projekt folgt dem klassischen Datenanalyseprozess:
 1. Fragen und Problemstellung
 2. Datenimport
 3. Explorative Datenanalyse (EDA)
-4. Datenbereinigung
-5. Datenmodellierung
-6. Feature Engineering
-7. Analyse & Visualisierung
-8. Handlungsempfehlungen
+4. Datenbereinigung und -modellierung
+5. Feature Engineering
+6. Analyse & Visualisierung mit Power BI
+7. Handlungsempfehlungen
 
 Die Analyse erfolgte iterativ:
 
